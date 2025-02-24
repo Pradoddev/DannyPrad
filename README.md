@@ -12,6 +12,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="50" />
 </div>      
+
 ----------------------------------------------------------------------------------------------------------------------
  ![DannyPrad's Stats](https://github-readme-stats.vercel.app/api?username=DannyPrad&theme=dracula&show_icons=true&hide_border=true&count_private=true)
  
