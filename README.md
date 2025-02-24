@@ -40,6 +40,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Icon" />
 </a>
 
+ 
+<a href="mailto:danielwp33@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="50" height="50" alt="Email Icon" />
+</a>
+
 ---
 
 ✨ *Coding my way to the tech world, one line at a time.*
