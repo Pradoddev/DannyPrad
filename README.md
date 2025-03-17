@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Daniel Prado
-### 🚀 Mobile Engineer | Tech Enthusiast | Future Dev Abroad 🇺🇸
+### 🚀 backend Engineer | Tech Enthusiast | Future Dev mobile Abroad 🇺🇸
 
 ---
 
