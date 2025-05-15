@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DannyPrad&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="DannyPrad's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyPrad&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="DannyPrad's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradoddev&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Pradoddev's Top Languages" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
 
 
 
-<span style="font-size: 16px;">danielwp33@gmail.com</span>
+<span style="font-size: 10px;">danielwp33@gmail.com</span>
 
 ---
 
